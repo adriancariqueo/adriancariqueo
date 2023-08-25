@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es Adrian Leblanc Morales
 - 👀 Estoy interesado en ser programador web.
-- 🌱 Actualmente estoy aprendiendo REACT con cursos en Udemy.
+- 🌱 Actualmente estoy aprendiendo REACT y Python con cursos en Udemy.
 - 📫 Mi correo es ad.leblancm@gmail.com
 
 <!---
